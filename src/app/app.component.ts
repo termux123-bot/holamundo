@@ -7,5 +7,16 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'diplomadoangular';
-  public contador:number=100;
+  
+
+//   sumar(){
+//     this.contador++;
+
+
+    
+//   }
+//   restar(){
+//     this.contador--;
+//   }
+// }
 }
